@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @AllenPod
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+AllenPod/AllenPod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->helping my instructors do their job
+whatever I can learn at 83, I'll learn.
+email works for me, altho I am sometimes biking
+
